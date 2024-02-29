@@ -13,58 +13,17 @@
             "image": "shopify:\/\/shop_images\/23Q2-SuperLight-Hero-Desktop-Trainer-3841_x_2346.jpg",
             "alignment": "bottom-center"
           }
-        },
-        "vite_hero_eFTWUr": {
-          "type": "shopify:\/\/apps\/vite\/blocks\/hero\/559bb11a-6408-4e80-b6cb-f07a51304cf7",
-          "settings": {
-            "eyebrow": "Spring 2024",
-            "heading": "New Arrivals",
-            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh.",
-            "cta": "Shop Now",
-            "image": "shopify:\/\/shop_images\/Allbirds_SpringShoot_Studio_MW_Shot18_0016.jpg",
-            "alignment": "bottom-center"
-          }
         }
       },
       "block_order": [
-        "vite_hero_4H6FEd",
-        "vite_hero_eFTWUr"
+        "vite_hero_4H6FEd"
       ],
       "settings": {
         "include_margins": true
       }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "17091030528ed4b6fc",
-    "featured_collection"
+    "17091030528ed4b6fc"
   ]
 }
