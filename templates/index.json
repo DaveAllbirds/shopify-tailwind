@@ -11,7 +11,7 @@
             "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh.",
             "cta": "Shop Now",
             "image": "shopify:\/\/shop_images\/23Q2-SuperLight-Hero-Desktop-Trainer-3841_x_2346.jpg",
-            "alignment": "center"
+            "alignment": "bottom-center"
           }
         }
       },
