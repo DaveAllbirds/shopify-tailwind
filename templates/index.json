@@ -13,10 +13,22 @@
             "image": "shopify:\/\/shop_images\/23Q2-SuperLight-Hero-Desktop-Trainer-3841_x_2346.jpg",
             "alignment": "bottom-center"
           }
+        },
+        "vite_hero_eFTWUr": {
+          "type": "shopify:\/\/apps\/vite\/blocks\/hero\/559bb11a-6408-4e80-b6cb-f07a51304cf7",
+          "settings": {
+            "eyebrow": "Spring 2024",
+            "heading": "New Arrivals",
+            "subtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh.",
+            "cta": "Shop Now",
+            "image": "shopify:\/\/shop_images\/23Q2-SuperLight-Hero-Desktop-Trainer-3841_x_2346.jpg",
+            "alignment": "bottom-center"
+          }
         }
       },
       "block_order": [
-        "vite_hero_4H6FEd"
+        "vite_hero_4H6FEd",
+        "vite_hero_eFTWUr"
       ],
       "settings": {
         "include_margins": true
